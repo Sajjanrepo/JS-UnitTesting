@@ -67,7 +67,7 @@ Ensure that you have the following installed on your system:
 2.Navigate to the project directory:
    cd javascript-unit-tests
    
-3.Install the dependencies
+3.Install the dependencies:
    npm install --save-dev jest
 
 ## Run the script present in tests directory along with coverage report generation in coverage directory (index.html)
