@@ -62,6 +62,28 @@ Ensure that you have the following installed on your system:
 ### Installation
 
 1. Clone the repository:
+   git clone https://github.com/Sajjanrepo/JS-UnitTesting.git
+   
+2.Navigate to the project directory:
+   cd javascript-unit-tests
+   
+3.Install the dependencies
+   npm install --save-dev jest
 
-   ```bash
-   git clone https://github.com/yourusername/javascript-unit-tests.git
+## Run the script present in tests directory along with coverage report generation in coverage directory (index.html)
+   npm test <file.test.js> -- --coverage
+
+## Frameworks and Tools Used
+   Jest: A JavaScript testing framework used for running the tests.
+   Node.js: The JavaScript runtime environment.
+   NPM: The Node Package Manager to handle dependencies.
+   IDE: PyCharm Community
+
+## Assumptions and Constraints
+   All functions assume that the inputs are well-formed (e.g., prices and discounts are numbers). 
+   Input validation is performed where necessary.
+      
+   
+
+   
+   
