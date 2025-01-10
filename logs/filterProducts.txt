@@ -1,0 +1,3 @@
+Logs for filterProducts:
+Test execution started...
+Test passed!

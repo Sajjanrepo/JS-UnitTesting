@@ -1,0 +1,3 @@
+Logs for sortProducts:
+Test execution started...
+Test passed!
